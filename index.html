@@ -1,24 +1,28 @@
 <!DOCTYPE html>
+/**
+* Basic Map designed to import geojson points
+*
+* The geojson data is already loaded into the master commit
+*/
 <html>
 <head>
 <meta charset=utf-8 />
-<title>HTML Map Test</title>
 <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-<script src='https://api.mapbox.com/mapbox.js/v2.2.3/mapbox.js'></script>
-<link href='https://api.mapbox.com/mapbox.js/v2.2.3/mapbox.css' rel='stylesheet' />
+<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
 <style>
   body { margin:0; padding:0; }
   #map { position:absolute; top:0; bottom:0; width:100%; }
 </style>
+<title>Leaflet Map Test</title>
 </head>
 <body>
 
 
 <div id='map'></div>
 <script>
-L.mapbox.accessToken = 'pk.eyJ1IjoicmFnYW50aSIsImEiOiJjaWhza2lzeGwwMHM0dGZraG54MzdkcnpsIn0.ZEo960NcSuJYRverne_sEQ';
-var map = L.mapbox.map('map', 'mapbox.streets')
-    .setView([40, -74.50], 9);
+//Supposed to be a plain map using OSM tiles
+var map = L.map('map').setView([39.952299, -75.163256], 13);
 </script>
 
 </body>
