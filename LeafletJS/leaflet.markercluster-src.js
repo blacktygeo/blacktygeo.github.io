@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=1020">
     
     
-    <title>Leaflet.markercluster/leaflet.markercluster-src.js at master · Leaflet/Leaflet.markercluster</title>
+    <title>Leaflet.markercluster/leaflet.markercluster-src.js at leaflet-0.7 · Leaflet/Leaflet.markercluster</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
@@ -25,7 +25,7 @@
       <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
     <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
     <link rel="assets" href="https://assets-cdn.github.com/">
-    <link rel="web-socket" href="wss://live.github.com/_sockets/MTYxNzQzNTU6MzUzMTExYzJkNzVmMmQ5MDY4MjRiNDI0NGU2MmU5MGU6OTk5YzZkYTM4OGQyODI2NTZkMDM2YjgyMjBkNzUxNjBlMTJmYzI3ODIyZGQxZjRiY2QxODNjYzk0NzdmMTMzMQ==--de5898d783936da39c85e5971ecafe7829392798">
+    <link rel="web-socket" href="wss://live.github.com/_sockets/MTYxNzQzNTU6MzUzMTExYzJkNzVmMmQ5MDY4MjRiNDI0NGU2MmU5MGU6ZDhkZTgwOGIwOTNlOGI0NDgwZWJkNmQzMDM3NjJhNjFmYjVjYzYwODc4ODRmNGU2MjQwY2JlNDU2ZTdkNGVkYg==--52c9c0fc48dc64e562ea029de32e1b21d950ed7d">
     <meta name="pjax-timeout" content="1000">
     <link rel="sudo-modal" href="/sessions/sudo_modal">
 
@@ -36,7 +36,7 @@
     <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="43B93111:612A:7AC3EBC:56946EFC" name="octolytics-dimension-request_id" /><meta content="16174355" name="octolytics-actor-id" /><meta content="blacktygeo" name="octolytics-actor-login" /><meta content="dbd8ef085d6bf0add20b08bfb533c7bbdc0f8ddea2e7217b846b4722e01677a1" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="43B93111:23FA:78A9DD7:56947851" name="octolytics-dimension-request_id" /><meta content="16174355" name="octolytics-actor-id" /><meta content="blacktygeo" name="octolytics-actor-login" /><meta content="dbd8ef085d6bf0add20b08bfb533c7bbdc0f8ddea2e7217b846b4722e01677a1" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 <meta content="Rails, view, blob#show" data-pjax-transient="true" name="analytics-event" />
 
@@ -68,7 +68,7 @@
   <meta name="go-import" content="github.com/Leaflet/Leaflet.markercluster git https://github.com/Leaflet/Leaflet.markercluster.git">
 
   <meta content="2854298" name="octolytics-dimension-user_id" /><meta content="Leaflet" name="octolytics-dimension-user_login" /><meta content="4983184" name="octolytics-dimension-repository_id" /><meta content="Leaflet/Leaflet.markercluster" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="4983184" name="octolytics-dimension-repository_network_root_id" /><meta content="Leaflet/Leaflet.markercluster" name="octolytics-dimension-repository_network_root_nwo" />
-  <link href="https://github.com/Leaflet/Leaflet.markercluster/commits/master.atom" rel="alternate" title="Recent Commits to Leaflet.markercluster:master" type="application/atom+xml">
+  <link href="https://github.com/Leaflet/Leaflet.markercluster/commits/leaflet-0.7.atom" rel="alternate" title="Recent Commits to Leaflet.markercluster:leaflet-0.7" type="application/atom+xml">
 
   </head>
 
@@ -209,7 +209,7 @@
             Settings
           </a>
 
-          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="484c12d754b5b595b268d5bbf654e27cc476a68f" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="YlDBaElgt/cimBTCHhfy4xh7VWhEgvNuRl6nHDoUPybeWu/iWpZeDpPqVGWonfCYWTxqtdQmyn7EIKFSqi0jDQ==" /></div>
+          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="484c12d754b5b595b268d5bbf654e27cc476a68f" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="pxhVv3pwtYXzwMKsIcx1lsLEMyiT7iOAUr0bGafmojhzwW4I33kvbLbFsOyzGlTlD7sP3QxwAK7OmXv11QYx+Q==" /></div>
             <button class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
               Sign out
             </button>
@@ -247,7 +247,7 @@
 <ul class="pagehead-actions">
 
   <li>
-        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="484c12d754b5b595b268d5bbf654e27cc476a68f" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="yXUmYmYsOMehFp7ybKdJ+wRaYVz+XU/BN0BYRLUYvYtA+nlgZnWUO/mACeX/dKs/XJLUdS0KACI2Kg62BOzb0w==" /></div>      <input id="repository_id" name="repository_id" type="hidden" value="4983184" />
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="484c12d754b5b595b268d5bbf654e27cc476a68f" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="q4TsFd9bb5FchGo54O3YpF7TapTS2iacX2qF+6c31Kp97IVt+++qmr1zwGVD5+SH0xjxNPhAi2z9VeGXhJkH0w==" /></div>      <input id="repository_id" name="repository_id" type="hidden" value="4983184" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/Leaflet/Leaflet.markercluster/subscription"
@@ -322,7 +322,7 @@
     
   <div class="js-toggler-container js-social-container starring-container ">
 
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Leaflet/Leaflet.markercluster/unstar" class="js-toggler-form starred js-unstar-button" data-form-nonce="484c12d754b5b595b268d5bbf654e27cc476a68f" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="RnVu5ExuJF/S7KssLjtms2/Dtpsec66cZYrdjW2bKG/ECEzLkTkK1zgemReiH2kP3ue4Z9n58HmKLWaWbGyM5g==" /></div>
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Leaflet/Leaflet.markercluster/unstar" class="js-toggler-form starred js-unstar-button" data-form-nonce="484c12d754b5b595b268d5bbf654e27cc476a68f" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="kHgCqyuODjJYKVd21WfINBXIa1JPcBmW2p/94ffSbWI3zPXZeSEiNCdg1e5pI2IDko3tVI5pWERrk9CdVqUdcQ==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Unstar this repository" title="Unstar Leaflet/Leaflet.markercluster"
@@ -334,7 +334,7 @@
           1,328
         </a>
 </form>
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Leaflet/Leaflet.markercluster/star" class="js-toggler-form unstarred js-star-button" data-form-nonce="484c12d754b5b595b268d5bbf654e27cc476a68f" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="n1k5SqWT13XSaB6qGbWb1tfmxU2oROP1Ll0TT0IEdtonKbZuPoxmdwo1IS0y3Ta35sQK0/414S9bV28KAuY8Jw==" /></div>
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Leaflet/Leaflet.markercluster/star" class="js-toggler-form unstarred js-star-button" data-form-nonce="484c12d754b5b595b268d5bbf654e27cc476a68f" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ls/z6qAKwI3ewSWim0pWCQQW30Izu8SMHRjgz6oJ0+NUhWkIbl8fn2ahQdx7kA0x84TNq31RuthjBcG+jE/fsQ==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Star this repository" title="Star Leaflet/Leaflet.markercluster"
@@ -350,7 +350,7 @@
   </li>
 
   <li>
-          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Leaflet/Leaflet.markercluster/fork" class="btn-with-count" data-form-nonce="484c12d754b5b595b268d5bbf654e27cc476a68f" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="n2cuJQKPF7+azAhKjQ/f9NMLin8tFn/dGzybqGNy0Kvx/PEKrXtFeAWWRKToOu0Okuxe+mlBtdRQFLlZ+5Pxow==" /></div>
+          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Leaflet/Leaflet.markercluster/fork" class="btn-with-count" data-form-nonce="484c12d754b5b595b268d5bbf654e27cc476a68f" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="I2imse6d/FlBZ/GpxB9egVI/9Pg9yAwhlcEhN+sc14EG40rWK+EAqz5gvWlaX6SPjbuRls0jwEac75Z5JV8H0g==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -386,7 +386,7 @@
      role="navigation"
      data-pjax="#js-repo-pjax-container">
 
-  <a href="/Leaflet/Leaflet.markercluster" aria-label="Code" aria-selected="true" class="js-selected-navigation-item selected reponav-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /Leaflet/Leaflet.markercluster">
+  <a href="/Leaflet/Leaflet.markercluster/tree/leaflet-0.7" aria-label="Code" aria-selected="true" class="js-selected-navigation-item selected reponav-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /Leaflet/Leaflet.markercluster/tree/leaflet-0.7">
     <span aria-hidden="true" class="octicon octicon-code"></span>
     Code
 </a>
@@ -420,7 +420,7 @@
 
     
 
-<a href="/Leaflet/Leaflet.markercluster/blob/ba3c95b275a1e26d6a5393f040551ab3c700c12f/dist/leaflet.markercluster-src.js" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/Leaflet/Leaflet.markercluster/blob/8221318326cf03652879b935a1f6a81b6b11090c/dist/leaflet.markercluster-src.js" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
 <!-- blob contrib key: blob_contributors:v21:58337fc5ea9eddaddb0ab7f5fa0580a4 -->
 
@@ -428,10 +428,10 @@
   
 <div class="select-menu js-menu-container js-select-menu left">
   <button class="btn btn-sm select-menu-button js-menu-target css-truncate" data-hotkey="w"
-    title="master"
+    title="leaflet-0.7"
     type="button" aria-label="Switch branches or tags" tabindex="0" aria-haspopup="true">
     <i>Branch:</i>
-    <span class="js-select-button css-truncate-target">master</span>
+    <span class="js-select-button css-truncate-target">leaflet-0.7</span>
   </button>
 
   <div class="select-menu-modal-holder js-menu-content js-navigation-container" data-pjax aria-hidden="true">
@@ -473,7 +473,7 @@
                 gh-pages
               </span>
             </a>
-            <a class="select-menu-item js-navigation-item js-navigation-open "
+            <a class="select-menu-item js-navigation-item js-navigation-open selected"
                href="/Leaflet/Leaflet.markercluster/blob/leaflet-0.7/dist/leaflet.markercluster-src.js"
                data-name="leaflet-0.7"
                data-skip-pjax="true"
@@ -483,7 +483,7 @@
                 leaflet-0.7
               </span>
             </a>
-            <a class="select-menu-item js-navigation-item js-navigation-open selected"
+            <a class="select-menu-item js-navigation-item js-navigation-open "
                href="/Leaflet/Leaflet.markercluster/blob/master/dist/leaflet.markercluster-src.js"
                data-name="master"
                data-skip-pjax="true"
@@ -592,7 +592,7 @@
 </div>
 
   <div class="btn-group right">
-    <a href="/Leaflet/Leaflet.markercluster/find/master"
+    <a href="/Leaflet/Leaflet.markercluster/find/leaflet-0.7"
           class="js-show-file-finder btn btn-sm"
           data-pjax
           data-hotkey="t">
@@ -601,7 +601,7 @@
     <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
   </div>
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class="repo-root js-repo-root"><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Leaflet/Leaflet.markercluster" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">Leaflet.markercluster</span></a></span></span><span class="separator">/</span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Leaflet/Leaflet.markercluster/tree/master/dist" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">dist</span></a></span><span class="separator">/</span><strong class="final-path">leaflet.markercluster-src.js</strong>
+    <span class="repo-root js-repo-root"><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Leaflet/Leaflet.markercluster/tree/leaflet-0.7" class="" data-branch="leaflet-0.7" data-pjax="true" itemscope="url"><span itemprop="title">Leaflet.markercluster</span></a></span></span><span class="separator">/</span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Leaflet/Leaflet.markercluster/tree/leaflet-0.7/dist" class="" data-branch="leaflet-0.7" data-pjax="true" itemscope="url"><span itemprop="title">dist</span></a></span><span class="separator">/</span><strong class="final-path">leaflet.markercluster-src.js</strong>
   </div>
 </div>
 
@@ -655,24 +655,24 @@
   <div class="file-actions">
 
     <div class="btn-group">
-      <a href="/Leaflet/Leaflet.markercluster/raw/master/dist/leaflet.markercluster-src.js" class="btn btn-sm " id="raw-url">Raw</a>
-        <a href="/Leaflet/Leaflet.markercluster/blame/master/dist/leaflet.markercluster-src.js" class="btn btn-sm js-update-url-with-hash">Blame</a>
-      <a href="/Leaflet/Leaflet.markercluster/commits/master/dist/leaflet.markercluster-src.js" class="btn btn-sm " rel="nofollow">History</a>
+      <a href="/Leaflet/Leaflet.markercluster/raw/leaflet-0.7/dist/leaflet.markercluster-src.js" class="btn btn-sm " id="raw-url">Raw</a>
+        <a href="/Leaflet/Leaflet.markercluster/blame/leaflet-0.7/dist/leaflet.markercluster-src.js" class="btn btn-sm js-update-url-with-hash">Blame</a>
+      <a href="/Leaflet/Leaflet.markercluster/commits/leaflet-0.7/dist/leaflet.markercluster-src.js" class="btn btn-sm " rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
-           href="github-windows://openRepo/https://github.com/Leaflet/Leaflet.markercluster?branch=master&amp;filepath=dist%2Fleaflet.markercluster-src.js"
+           href="github-windows://openRepo/https://github.com/Leaflet/Leaflet.markercluster?branch=leaflet-0.7&amp;filepath=dist%2Fleaflet.markercluster-src.js"
            aria-label="Open this file in GitHub Desktop"
            data-ga-click="Repository, open with desktop, type:windows">
             <span aria-hidden="true" class="octicon octicon-device-desktop"></span>
         </a>
 
-        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Leaflet/Leaflet.markercluster/edit/master/dist/leaflet.markercluster-src.js" class="inline-form js-update-url-with-hash" data-form-nonce="484c12d754b5b595b268d5bbf654e27cc476a68f" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="N1s/P3977QVVDt+YvB+r1v/HnKMjEKwp0MExIfCyZc6s8u5/E35Dqt/IqoVHRBa7G/W6OJWpGb2AyjRM9yrB3g==" /></div>
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Leaflet/Leaflet.markercluster/edit/leaflet-0.7/dist/leaflet.markercluster-src.js" class="inline-form js-update-url-with-hash" data-form-nonce="484c12d754b5b595b268d5bbf654e27cc476a68f" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="gArjS8NTVAZknAquAp1xdVgsoI6TaPW++G1du1nHQUbSA25KUXAfJyldSKp/j/k0uVQxq1SWPfuBNe5Ty9T8nQ==" /></div>
           <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
             <span aria-hidden="true" class="octicon octicon-pencil"></span>
           </button>
-</form>        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Leaflet/Leaflet.markercluster/delete/master/dist/leaflet.markercluster-src.js" class="inline-form" data-form-nonce="484c12d754b5b595b268d5bbf654e27cc476a68f" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Lcc1JaWXtzljvfN78uEeEKSyJudGOsM8NZ8MfuKtbgoiuq8/S/F/vtJoX2yYUq2LFBK7VQ9MLEAjpfroxuz5LQ==" /></div>
+</form>        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Leaflet/Leaflet.markercluster/delete/leaflet-0.7/dist/leaflet.markercluster-src.js" class="inline-form" data-form-nonce="484c12d754b5b595b268d5bbf654e27cc476a68f" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="3EIperdoViwCqsgMgBy/hRfdOQGuE5TB7RF6ts8Z2kPyMDUFMp9U70eQ6OLPYjkTGVpvIUEdvIKj4pOcWMx83A==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <span aria-hidden="true" class="octicon octicon-trashcan"></span>
@@ -9769,7 +9769,7 @@
       <span aria-hidden="true" class="mega-octicon octicon-mark-github" title="GitHub "></span>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2016 <span title="0.15463s from github-fe121-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2016 <span title="0.13105s from github-fe134-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>

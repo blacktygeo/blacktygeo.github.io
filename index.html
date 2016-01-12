@@ -36,21 +36,7 @@
 		Test GeoJSON data using leaflet-ajax
 		Combined with marker cluster script
 		*/
-		var BusStop = new L.GeoJSON.AJAX(["BusStops_git.geojson"],{
-		style: function (feature) {
-				Return {color: feature.properties.color};
-		},
-		
-		onEachFeature: function (feature,layer) {
-				var popupText = 'geometry type: ' + feature.geometry.type;
-				
-				if (feature.properties.color) {
-						popupText += '<br/>color: ' + feature.properties.color
-				}
-				
-				layer.bindPopup(popupText);
-			}
-		});
+		var BusStop = new L.GeoJSON.AJAX(["BusStops_git.geojson"],);
 		
 		var markers = L.markerClusterGroup();
 		markers.addLayer(BusStop);
