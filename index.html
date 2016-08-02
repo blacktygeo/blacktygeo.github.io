@@ -18,9 +18,7 @@
 	<script>
 	// Add basemap
 	L.mapbox.accessToken = 'pk.eyJ1IjoicmFnYW50aSIsImEiOiJjaWhza2lzeGwwMHM0dGZraG54MzdkcnpsIn0.ZEo960NcSuJYRverne_sEQ';
-	var baseLayer = L.mapbox.map('map')
-		.setView([40, -74.50], 9);
-		.addLayer(L.mapbox.tileLayer('mapbox.streets'));
+	var baseLayer = L.mapbox.tileLayer('mapbox.streets');
 
 	// Define the cluster layer	
 	var markers = L.markerClusterGroup();
@@ -37,7 +35,7 @@
 		markers.addLayer(geojson);
 		
 		// Construct the map
-		var map = L.map('map', {maxZoom: 9}).fitBounds(markers.getBounds());
+		var map = L.map('map', {center: 40, -74.50}, {maxZoom: 9}).fitBounds(markers.getBounds());
 		baseLayer.addTo(map);
 		markers.addTo(map);
 	});
