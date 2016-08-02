@@ -35,7 +35,7 @@
 		markers.addLayer(geojson);
 		
 		// Construct the map
-		var map = L.map('map', {center: 40, -74.50}, {maxZoom: 9}).fitBounds(markers.getBounds());
+		var map = L.map('map', {center: [40, -74.50]}, {maxZoom: 9}).fitBounds(markers.getBounds());
 		baseLayer.addTo(map);
 		markers.addTo(map);
 	});
