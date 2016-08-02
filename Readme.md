@@ -8,4 +8,10 @@ Initially designed to test saving files to a Github repository along with saving
 2) Integrate a database of transportation features which has already been converted to geoJSON  
 3) Try new leaflet abilities
 
-This readme was copied over from my LeafletMap repository.  Based on research I might end up retiring that repository and move all my work to this new Github Pages repository.
+Thanks to many awesome sources, I was able to cobble together a basic knowledge of what is going on in JavaScript and determine how to make a Leaflet map utilizing marker clustering.  At this point, I would like to clean up my GeoJSON database with transit operator names which didn't carry over from my older file GeoDatabase.  
+
+
+Awesome sources:
+https://www.mapbox.com/mapbox.js/example/v1.0.0/markercluster-with-mapbox-data/
+http://leafletjs.com/reference.html#geojson
+http://bl.ocks.org/wboykinm/c77e7c891bfc52157843
