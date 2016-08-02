@@ -28,11 +28,7 @@
 	// Call GeoJSON
 	$.getJSON("BusStops_git.geojson", function(data) {
 		var geojson = L.geoJson(data, {
-		  onEachFeature: function (feature, layer) {
-			// USE A CUSTOM MARKER
-			layer.setIcon(L.mapbox.marker.icon({'marker-symbol': 'circle-stroked', 'marker-color': '59245f'}));
-
-		  }
+		  onEachFeature: function (feature, layer)
 		});
 		markers.addLayer(geojson);
 		
